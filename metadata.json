@@ -1,0 +1,5 @@
+{
+  "name": "GreenChoice",
+  "description": "An AI app designed to help consumers check the authenticity of product sustainability claims based on ingredient lists and self-declared claims.",
+  "requestFramePermissions": []
+}
